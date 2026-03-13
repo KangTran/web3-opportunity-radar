@@ -1,0 +1,20 @@
+[
+  {
+    "name": "LayerZero",
+    "category": "Interoperability",
+    "description": "Cross-chain messaging protocol.",
+    "link": "https://layerzero.network"
+  },
+  {
+    "name": "Scroll",
+    "category": "ZK Rollup",
+    "description": "Scaling Ethereum with ZK technology.",
+    "link": "https://scroll.io"
+  },
+  {
+    "name": "Taiko",
+    "category": "ZK Rollup",
+    "description": "Decentralized Ethereum-equivalent ZK Rollup.",
+    "link": "https://taiko.xyz"
+  }
+]
