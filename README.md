@@ -1,4 +1,8 @@
 # 🔍 Web3 Opportunity Radar
+Track early-stage Web3 projects, testnets, and potential airdrops before they trend ⚡
+
+## 🌐 Live Demo
+👉 **[Open Web3 Opportunity Radar](https://kangtran.github.io/web3-opportunity-radar/)**
 
 A lightweight tool to track early-stage Web3 opportunities including testnets, airdrops, and new protocol launches.
 
